@@ -1,5 +1,5 @@
 ---
-title: Personalize your profile
+title: Oubai Gaafer
 intro: You can share information about yourself with other users by setting a profile picture and adding a bio to your profile.
 redirect_from:
   - /articles/adding-a-bio-to-your-profile
